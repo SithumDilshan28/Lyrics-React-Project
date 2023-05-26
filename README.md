@@ -1,4 +1,4 @@
-# Lyriks: React-Based Online Music Player with API Integration
+# Lyriks: React-Based Online Music Player with API Integration 
 
 Lyriks is a personal project that brings you a dynamic online music player website. Developed using React and API integration, this platform offers a seamless and immersive music streaming experience. Lyriks allows users to explore and listen to their favorite songs while providing lyrics, artist information, and additional features to enhance the overall music playback experience.
 
