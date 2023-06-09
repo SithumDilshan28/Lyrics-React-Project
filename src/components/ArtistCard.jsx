@@ -2,12 +2,6 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
 
-  const ExtendedComponent = ({ track }) => {
-    const handleOnClick = () => {
-      if (track && track.artists && track.artists[0] && track.artists[0].adamid) {
-        navigate(`/artists/${track.artists[0].adamid}`);
-      }
-    };
   
     return (
       <div
